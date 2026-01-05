@@ -1,1 +1,13 @@
 # REACT
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: Bala Murugan S
+
+**INTERN ID**: CTIS0853
+
+**DOMAIN**: React.js Web Development
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH
