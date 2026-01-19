@@ -1,13 +1,11 @@
-# REACT
+Task 4 – Chrome Extension
 
-**COMPANY**: CODTECH IT SOLUTIONS
+This is a Chrome extension for time tracking and productivity analysis.
 
-**NAME**: Bala Murugan S
-
-**INTERN ID**: CTIS0853
-
-**DOMAIN**: React.js Web Development
-
-**DURATION**: 4 WEEKS
-
-**MENTOR**: NEELA SANTOSH
+How to install:
+1. Open Google Chrome
+2. Go to chrome://extensions
+3. Enable Developer Mode
+4. Click Load Unpacked
+5. Select the Task-4 folder
+6.
